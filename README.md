@@ -17,11 +17,11 @@ _I’m Currently Learning:_
 
 - HTML
 
-![image](https://user-images.githubusercontent.com/110185548/181936025-277d736b-20ee-429b-85b5-51610fd333e0.png)
+ ![image](https://user-images.githubusercontent.com/110185548/181936025-277d736b-20ee-429b-85b5-51610fd333e0.png)
 
 - SQL
 
-![image](https://user-images.githubusercontent.com/110185548/181935993-04a03343-e3c3-4dae-8023-249987848ffe.png)
+  ![image](https://user-images.githubusercontent.com/110185548/181935993-04a03343-e3c3-4dae-8023-249987848ffe.png)
 
 
 <h2>Reach Me at: 📫</h2>
