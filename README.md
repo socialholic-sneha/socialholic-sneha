@@ -13,5 +13,5 @@ I’m Currently Learning
 - SQL
 
 <h2>Reach Me at: 📫</h2>
-<a href="mailto:snehasingh52003@gmail.com">snehasingh52003@gmail.com</a>
+📩 <a href="mailto:snehasingh52003@gmail.com">snehasingh52003@gmail.com</a>
 
