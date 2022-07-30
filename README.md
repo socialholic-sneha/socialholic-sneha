@@ -1,16 +1,16 @@
-### Hi there 👋
+<h2>Hi there! 👋</h2>
 
-<!--
-**socialholic-sneha/socialholic-sneha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Sneha Singh
+- Data Science Student at Noida Institute of Engineering and Technology👩‍🎓
 
-Here are some ideas to get you started:
+<h2>Currently Learning 💻</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m Currently Learning
+- Introduction to Data Science
+- Advanced Python
+- Human Centered Design Thinking
+- HTML
+- SQL
+
+<h2>Reach Me at: 📫</h2>
+<a href="mailto:snehasingh52003@gmail.com">![snehasingh52003@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
