@@ -17,7 +17,7 @@ _I’m Currently Learning:_
 
 - HTML
 
- ![image](https://user-images.githubusercontent.com/110185548/181936025-277d736b-20ee-429b-85b5-51610fd333e0.png)
+    ![image](https://user-images.githubusercontent.com/110185548/181936025-277d736b-20ee-429b-85b5-51610fd333e0.png)
 
 - SQL
 
