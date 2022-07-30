@@ -13,5 +13,4 @@ I’m Currently Learning
 - SQL
 
 <h2>Reach Me at: 📫</h2>
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/#EA4335.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/#EA4335.svg" />
+<a href="mailto:snehasingh52003@gmail.com">!snehasingh52003@gmail.com(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
